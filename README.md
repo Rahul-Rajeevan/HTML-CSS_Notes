@@ -2,4 +2,6 @@ Project Details : [Fee_Project_CSE 2024(AI).pdf](https://github.com/user-attachm
 
 Final Project group list : https://docs.google.com/spreadsheets/d/1k5u2Sze1wjxO3NlOSZbb0Vh99i5uCYvt/edit?usp=sharing&ouid=109839230126814082474&rtpof=true&sd=true
 
+## Project Guidelines : https://drive.google.com/drive/folders/1wSJ-ZCLO1WYodvZ2DCc-86jhizF9Pr5y?usp=sharing
+
 # <a href="https://docs.google.com/document/d/1Z0FOqexlvPzD3GKYicw834U2K7gl_GmgKvypQjEsbjA/edit">Google Doc Link</a>
