@@ -1,5 +1,7 @@
 Main doc::https://docs.google.com/document/d/1gVCsp7N-KWtWehK4gkPlcdbCEOzg6Vd6DLcDoOaK1xQ/edit?usp=sharing
 
+DOM notes : https://docs.google.com/document/d/1Kw02PhpbToYq_pRXOHDuv5qPE0taUim3hp2CztGKvWU/edit?usp=sharing
+
 Day 1: https://www.notion.so/vivmagarwal/JS-1-d972578f06764436bce2735cfc2cb00c?pvs=25
 
 Day 2: https://www.notion.so/vivmagarwal/Live-55935b406c85402988f4b74a1f725b24
